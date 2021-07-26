@@ -1,2 +1,1 @@
-# svida-website
-yet another , static website 
+# svidiag
